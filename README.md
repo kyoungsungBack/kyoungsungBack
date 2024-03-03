@@ -1,4 +1,4 @@
-MY SKILLS<br>
+<h2>MY SKILLS</h2><br>
 <p>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -9,8 +9,8 @@ MY SKILLS<br>
 </p>
 <br>
 <br>
-Certification<br>
-정보처리기사
-SQLD(SQL 개발자)
-Salesforce Certified Associate
-Salesforce Certified Administrator
+<h2>MY CERTIFICATION</h2><br>
+정보처리기사<br>
+SQLD(SQL 개발자)<br>
+Salesforce Certified Associate<br>
+Salesforce Certified Administrator<br>
