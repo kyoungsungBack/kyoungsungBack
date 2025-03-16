@@ -16,3 +16,4 @@ Salesforce Certified Associate<br>
 Salesforce Certified Administrator<br>
 Salesforce Certified Platform App Builder<br>
 Salesforce Certified Platform Developer 1<br>
+Salesforce Certified AI Specialist<br>
